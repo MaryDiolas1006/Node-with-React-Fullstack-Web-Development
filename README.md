@@ -1,0 +1,20 @@
+#Fullstack Web  with NodeJS, React, Redux, Express, and MongoDB.
+- Server Side Architecture
+- Authentication with Google OAuth
+- MongoDB
+- React 
+- Async/Await Syntax
+- Front End Tech
+- Root Modules
+- Auth Reducer
+- React Router
+- Route Configuration
+- Redux Thunk
+- Env Variables with React
+- BodyParser Middleware
+- Back End to Front End Routing in Production
+- Mongoose for Survey Creation
+- Redux Form
+- Handling Webhook Data
+- Lodash Chain Helper
+- Wiring React to Redux
